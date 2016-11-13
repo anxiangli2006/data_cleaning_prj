@@ -1,0 +1,1 @@
+The variable names were unchanged, and were described in detail in the two original text files features.txt and features_info.txt. Please refer to the readme.txt

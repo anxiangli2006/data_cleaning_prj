@@ -1,5 +1,4 @@
 rm(list=ls(all=TRUE))
-setwd("C:/Users/ALi/Documents/data_cleaning/data_cleaning_prj")
 
 X_test <- read.table("./test/X_test.txt",header=FALSE)
 y_test <- read.table("./test/y_test.txt",header=FALSE)
