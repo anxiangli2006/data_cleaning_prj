@@ -1,6 +1,7 @@
-#The tidy data set was produced by combining and cleaning of the UCI "Human Activity Recognition Using Smartphones Data Set. Only the variables with "mean" or "std" in their names were selected in the new tidy data set.
+#Processing
+The tidy data set was produced by running the Run_analysis.R script which combines and clean the original UCI "Human Activity Recognition Using Smartphones Data Set". Only the variables with "mean" or "std" in their names were selected in the new tidy data set.
 
-#Explain the variale names:
+#Coding used in the variale names:
 "t" : Time domain signal.
 "f" : Frequency domain signal.
 "BodyAcc" "-X", "-Y", "-Z" : Three axis linear acceleration in terms of "g" (Gravity acceleration). 
